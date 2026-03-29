@@ -216,7 +216,7 @@
         "Ubicado en <span class=\"text-on-surface font-semibold\">Arequipa, Perú</span>. Aprovechando infraestructura cloud global con precisión local y enfoque técnico.",
       home_location_coords: "AREQUIPA // 16,4090° S, 71,5375° O",
       home_footer_brand: "KINETIC_PIPELINE",
-      home_footer_copy: "Portafolio",
+      home_footer_copy: "Piero Vizcarra Vargas | Portafolio",
 
       exp_badge: "ESTADO_DEL_SISTEMA: OPERATIVO",
       exp_h2_a: "TRAYECTORIA",
