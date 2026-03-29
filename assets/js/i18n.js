@@ -157,7 +157,7 @@
       home_about_badge: "SOBRE_MI",
       home_about_title: "Ingeniero",
       home_about_subtitle: "de Datos",
-      home_about_p1: "Estudiante de Ciencias de la Computación en la Universidad Nacional de San Agustín (UNSA), Arequipa, Perú (2020-2025). Apasionado por data engineering, arquitectura en la nube y construcción de soluciones de datos escalables.",
+      home_about_p1: "Bachiller de Ciencia de la Computación de la Universidad Nacional de San Agustín (UNSA), Arequipa, Perú (2020-2025). Apasionado por data engineering, arquitectura en la nube y construcción de soluciones de datos escalables.",
       home_about_p2: "Con 4+ años construyendo pipelines ETL/ELT de producción, arquitecturas Medallion e infraestructura cloud escalable en AWS, GCP y Azure. Experto en Python, PySpark, SQL, Kafka y Kubernetes con enfoque en gobernanza IAM, CI/CD y calidad del dato.",
       home_about_unsa: "Lic. Ciencias de la Computación @ UNSA Arequipa | Microsoft DP-700 & AWS Certified",
 
