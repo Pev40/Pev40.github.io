@@ -113,6 +113,32 @@
       proj_main_desc:
         "Real-time event streaming with Kafka for high-concurrency messaging and EKS for resilient orchestration.",
       proj_main_gh: "View on GitHub",
+      proj_feature_status: "PRODUCTION",
+      proj_feature_stars: "Stars",
+      proj_feature_id: "ID: ATTENDANCE_SYSTEM_001",
+      proj_feature_title: "Distributed Attendance Pipeline",
+      proj_feature_desc:
+        "Real-time distributed system with Kafka ingestion of video/RTSP streams + facial embeddings, S3/HDFS storage, FastAPI backend, and full observability stack. Infrastructure as Code with Pulumi, Kubernetes k3s orchestration, GitOps with Argo CD, and monitoring with Prometheus/Grafana.",
+      proj_feature_cta: "View on GitHub",
+      proj_card1_title: "Extracta-Finanzas",
+      proj_card1_desc:
+        "Financial data extraction and processing pipeline. Integrates multiple APIs for real-time financial data collection and analysis.",
+      proj_card2_title: "Fire Detection IoT",
+      proj_card2_desc:
+        "IoT-based fire detection system using fog computing. Real-time sensor data processing and alert generation with edge computing.",
+      proj_card3_title: "Recommendation System",
+      proj_card3_desc:
+        "ML-based recommendation engine using collaborative filtering and content-based approaches. Optimized for scalability and performance.",
+      proj_card4_title: "Big Data Analytics",
+      proj_card4_desc:
+        "Large-scale data processing and analysis framework. Implements distributed computing patterns for handling massive datasets efficiently.",
+      proj_card5_title: "IoT Visualization",
+      proj_card5_desc:
+        "Real-time IoT data visualization platform. Interactive dashboards for monitoring sensor networks and analyzing time-series data streams.",
+      proj_card6_title: "Topics in Data Science",
+      proj_card6_desc:
+        "Educational repository covering advanced topics in data science. Includes machine learning models, statistical analysis, and best practices.",
+      proj_card_cta: "View Repository",
       proj_p2_env: "PRODUCTION",
       proj_p2_arch: "ARCH_02",
       proj_p2_title: "Medallion architecture on Azure",
@@ -124,10 +150,11 @@
       proj_p3_title: "Snowflake to Databricks migration",
       proj_p3_desc:
         "Zero-downtime migration of a 50TB+ warehouse. SQL procedures refactored to optimized PySpark pipelines.",
-      proj_cta_title: "Interested in the implementation?",
+      proj_cta_title: "Explore More on GitHub",
       proj_cta_body:
-        "Source code for orchestration scripts and infrastructure templates is documented on GitHub.",
-      proj_cta_gh: "Follow on GitHub",
+        "My complete portfolio includes over 90 repositories covering data engineering, machine learning, full-stack development, and more. Check my GitHub profile for the latest projects.",
+      proj_cta_gh: "View All Repositories",
+      proj_cta_home: "Back to Home",
       proj_cta_cv: "Download resume",
       proj_footer_docs: "Docs",
     },
@@ -238,6 +265,32 @@
       proj_main_desc:
         "Streaming en tiempo real con Kafka para mensajería de alta concurrencia y EKS para orquestación resiliente.",
       proj_main_gh: "Ver en GitHub",
+      proj_feature_status: "PRODUCCION",
+      proj_feature_stars: "Estrellas",
+      proj_feature_id: "ID: ATTENDANCE_SYSTEM_001",
+      proj_feature_title: "Pipeline distribuido de asistencia",
+      proj_feature_desc:
+        "Sistema distribuido en tiempo real con ingesta Kafka de flujos video/RTSP + embeddings faciales, almacenamiento S3/HDFS, backend FastAPI y stack completo de observabilidad. Infraestructura como codigo con Pulumi, orquestacion Kubernetes k3s, GitOps con Argo CD y monitoreo con Prometheus/Grafana.",
+      proj_feature_cta: "Ver en GitHub",
+      proj_card1_title: "Extracta-Finanzas",
+      proj_card1_desc:
+        "Pipeline de extraccion y procesamiento de datos financieros. Integra multiples APIs para recoleccion y analisis de datos financieros en tiempo real.",
+      proj_card2_title: "Deteccion de incendios IoT",
+      proj_card2_desc:
+        "Sistema de deteccion de incendios basado en IoT usando fog computing. Procesamiento de sensores en tiempo real y generacion de alertas en el borde.",
+      proj_card3_title: "Sistema de recomendacion",
+      proj_card3_desc:
+        "Motor de recomendaciones basado en ML con filtrado colaborativo y enfoques basados en contenido. Optimizado para escalabilidad y rendimiento.",
+      proj_card4_title: "Analitica de Big Data",
+      proj_card4_desc:
+        "Framework para procesamiento y analisis de datos a gran escala. Implementa patrones de computacion distribuida para manejar datasets masivos eficientemente.",
+      proj_card5_title: "Visualizacion IoT",
+      proj_card5_desc:
+        "Plataforma de visualizacion de datos IoT en tiempo real. Dashboards interactivos para monitorear redes de sensores y analizar series temporales.",
+      proj_card6_title: "Topicos de Ciencia de Datos",
+      proj_card6_desc:
+        "Repositorio educativo con topicos avanzados de ciencia de datos. Incluye modelos de machine learning, analisis estadistico y buenas practicas.",
+      proj_card_cta: "Ver repositorio",
       proj_p2_env: "PRODUCCIÓN",
       proj_p2_arch: "ARCH_02",
       proj_p2_title: "Arquitectura Medallion en Azure",
@@ -249,10 +302,11 @@
       proj_p3_title: "Migración Snowflake a Databricks",
       proj_p3_desc:
         "Migración sin tiempo de inactividad de un almacén de más de 50 TB. Procedimientos SQL refactorizados a pipelines PySpark optimizados.",
-      proj_cta_title: "¿Te interesa la lógica?",
+      proj_cta_title: "Explora mas en GitHub",
       proj_cta_body:
-        "El código fuente de los scripts de orquestación y las plantillas de infraestructura está documentado en GitHub.",
-      proj_cta_gh: "Seguir en GitHub",
+        "Mi portafolio completo incluye mas de 90 repositorios de data engineering, machine learning, desarrollo full-stack y mas. Revisa mi perfil de GitHub para ver los proyectos mas recientes.",
+      proj_cta_gh: "Ver todos los repositorios",
+      proj_cta_home: "Volver al inicio",
       proj_cta_cv: "Descargar CV",
       proj_footer_docs: "Docs",
     },
